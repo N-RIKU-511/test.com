@@ -1,4 +1,4 @@
-baseurl = "https://github.com/N-RIKU-511/test.com.git"
+baseurl = "https://test.com/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
